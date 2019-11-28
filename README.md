@@ -18,11 +18,11 @@ V okviru svojega projekta bom analizirala podatke o porokah in razvezah v Sloven
 * povprečno trajanje zakonske zveze,
 * število vdovelih ljudi v Sloveniji.
 
-TABELA 1: Osnovni podatki o sklenitvah zakonskih zvez – LETO, MERITVE (sklenitve zakonskih zvez, prve sklenitve zakonskih zvez, povprečna starost ženina ob sklenitvi zakonske zveze, povprečna starost ženina ob sklenitvi prve zakonske zveze, povprečna starost neveste ob sklenitvi zakonske zveze, povprečna starost neveste ob sklenitvi prve zakonske zveze, zakonski stan ženina – vdovec, zakonski stan neveste - vdova)
-TABELA 2: Regionalni podatki o sklenitvah zakonskih zvez – STATISTIČNA REGIJA, MERITVE, LETO
-TABELA 3: Razveze zakonskih zvez – STATISTIČNA REGIJA, LETO , TRAJANJE ZAKONSKE ZVEZE
-TABELA 4: Razveze po številu vzdrževanih otrok –  STATISTIČNA REGIJA, LETO , ŠTEVILO VZDRŽEVANIH OTROK
-TABELA 5: Sklenitve partnerskih zvez – MERITVE (med moškima, med ženskama), LETO
+* TABELA 1: Osnovni podatki o sklenitvah zakonskih zvez – LETO, MERITVE (sklenitve zakonskih zvez, prve sklenitve zakonskih zvez, povprečna starost ženina ob sklenitvi zakonske zveze, povprečna starost ženina ob sklenitvi prve zakonske zveze, povprečna starost neveste ob sklenitvi zakonske zveze, povprečna starost neveste ob sklenitvi prve zakonske zveze, zakonski stan ženina – vdovec, zakonski stan neveste - vdova)
+* TABELA 2: Regionalni podatki o sklenitvah zakonskih zvez – STATISTIČNA REGIJA, MERITVE, LETO
+* TABELA 3: Razveze zakonskih zvez – STATISTIČNA REGIJA, LETO , TRAJANJE ZAKONSKE ZVEZE
+* TABELA 4: Razveze po številu vzdrževanih otrok –  STATISTIČNA REGIJA, LETO , ŠTEVILO VZDRŽEVANIH OTROK
+ * TABELA 5: Sklenitve partnerskih zvez – MERITVE (med moškima, med ženskama), LETO
 
 Cilj je pokazati, da se ljudje vedno manj poročajo, poročajo se čedalje starejši in se več ločujejo. 
 
