@@ -18,6 +18,7 @@ V okviru svojega projekta bom analizirala podatke o porokah in razvezah v Sloven
 * povprečno trajanje zakonske zveze,
 * število vdovelih ljudi v Sloveniji.
 
+### Tabele
 * TABELA 1: Osnovni podatki o sklenitvah zakonskih zvez – LETO, MERITVE (sklenitve zakonskih zvez, prve sklenitve zakonskih zvez, povprečna starost ženina ob sklenitvi zakonske zveze, povprečna starost ženina ob sklenitvi prve zakonske zveze, povprečna starost neveste ob sklenitvi zakonske zveze, povprečna starost neveste ob sklenitvi prve zakonske zveze, zakonski stan ženina – vdovec, zakonski stan neveste - vdova)
 * TABELA 2: Regionalni podatki o sklenitvah zakonskih zvez – STATISTIČNA REGIJA, MERITVE, LETO
 * TABELA 3: Razveze zakonskih zvez – STATISTIČNA REGIJA, LETO , TRAJANJE ZAKONSKE ZVEZE
