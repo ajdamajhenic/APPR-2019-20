@@ -7,8 +7,28 @@ Repozitorij z gradivi pri predmetu APPR v študijskem letu 2019/20
 
 ## Tematika
 
-Izbrali si boste temo, s katero se bo vaš projekt ukvarjal.
-Tukaj boste napisali, kje ste dobili podatke, ter kakšen je vaš cilj.
+V okviru svojega projekta bom analizirala podatke o porokah in razvezah v Sloveniji. V glavnem se bom posvetila obdobju med letoma 2008 in 2018. Moje osrednje teme analize bodo: 
+
+* povprečna starost neveste in ženina pri vstopu v prvo zakonsko zvezo,
+* število sklenjenih zakonskih zvez med Slovenci letno,
+* število razdrtih zakonskih zvez med Slovenci letno,
+* število porok in razvez po regijah (katere regije so bolj nagnjene k porokam in razvezam, katere regije so bolj nagnjene k zgodnejšim porokam, katere k hitrejšim razvezam itd.),
+* število partnerskih zvez med istosplonimi partnerji,
+* število zakonskih razvez z otroki in brez,
+* povprečno trajanje zakonske zveze,
+* število vdovelih ljudi v Sloveniji.
+
+Cilj je pokazati, da se ljudje vedno manj poročajo, poročajo se čedalje starejši in se več ločujejo. 
+
+Podatke bom pridobila na Statističnem uradu Republike Slovenije:
+
+* https://pxweb.stat.si/SiStatDb/pxweb/sl/10_Dem_soc/10_Dem_soc__05_prebivalstvo__34_Poroke__05_05M10_poroke-SL/?tablelist=true
+* https://pxweb.stat.si/SiStatDb/pxweb/sl/10_Dem_soc/10_Dem_soc__05_prebivalstvo__34_Poroke__10_05M20_poroke-RE-OBC/?tablelist=true
+* https://pxweb.stat.si/SiStatDb/pxweb/sl/10_Dem_soc/10_Dem_soc__05_prebivalstvo__36_Razveze__05_05M30_razveze-SL/?tablelist=true
+* https://pxweb.stat.si/SiStatDb/pxweb/sl/10_Dem_soc/10_Dem_soc__05_prebivalstvo__36_Razveze__10_05M40_razveze-RE-OBC/?tablelist=true
+* https://pxweb.stat.si/SiStatDb/pxweb/sl/10_Dem_soc/10_Dem_soc__05_prebivalstvo__35_05M50_istospolne_skupnosti/?tablelist=true
+
+
 
 ## Program
 
