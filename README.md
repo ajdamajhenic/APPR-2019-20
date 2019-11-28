@@ -12,11 +12,17 @@ V okviru svojega projekta bom analizirala podatke o porokah in razvezah v Sloven
 * povprečna starost neveste in ženina pri vstopu v prvo zakonsko zvezo,
 * število sklenjenih zakonskih zvez med Slovenci letno,
 * število razdrtih zakonskih zvez med Slovenci letno,
-* število porok in razvez po regijah (katere regije so bolj nagnjene k porokam in razvezam, katere regije so bolj nagnjene k zgodnejšim porokam, katere k hitrejšim razvezam itd.),
+* število porok in razvez po regijah,
 * število partnerskih zvez med istosplonimi partnerji,
 * število zakonskih razvez z otroki in brez,
 * povprečno trajanje zakonske zveze,
 * število vdovelih ljudi v Sloveniji.
+
+TABELA 1: Osnovni podatki o sklenitvah zakonskih zvez – LETO, MERITVE (sklenitve zakonskih zvez, prve sklenitve zakonskih zvez, povprečna starost ženina ob sklenitvi zakonske zveze, povprečna starost ženina ob sklenitvi prve zakonske zveze, povprečna starost neveste ob sklenitvi zakonske zveze, povprečna starost neveste ob sklenitvi prve zakonske zveze, zakonski stan ženina – vdovec, zakonski stan neveste - vdova)
+TABELA 2: Regionalni podatki o sklenitvah zakonskih zvez – STATISTIČNA REGIJA, MERITVE, LETO
+TABELA 3: Razveze zakonskih zvez – STATISTIČNA REGIJA, LETO , TRAJANJE ZAKONSKE ZVEZE
+TABELA 4: Razveze po številu vzdrževanih otrok –  STATISTIČNA REGIJA, LETO , ŠTEVILO VZDRŽEVANIH OTROK
+TABELA 5: Sklenitve partnerskih zvez – MERITVE (med moškima, med ženskama), LETO
 
 Cilj je pokazati, da se ljudje vedno manj poročajo, poročajo se čedalje starejši in se več ločujejo. 
 
